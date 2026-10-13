@@ -1,0 +1,193 @@
+{
+  "products": [
+    {
+      "sku": "DAIRY-001",
+      "name": "Whole Milk 1 Gallon",
+      "category": "Dairy",
+      "aliases": ["WHOLE MILK 1GAL", "MILK WHOLE 1G", "ORGANIC WHOLE MILK", "M1LK 1GAL", "WHL MILK"],
+      "typical_price": 4.29
+    },
+    {
+      "sku": "DAIRY-002",
+      "name": "Grade A Large Eggs 12ct",
+      "category": "Dairy",
+      "aliases": ["LARGE EGGS 12PK", "EGGS GR A LRG 12CT", "DOZEN EGGS", "GRD A LRG EGGS", "EGGS 12CT"],
+      "typical_price": 3.49
+    },
+    {
+      "sku": "DAIRY-003",
+      "name": "Salted Butter 16oz",
+      "category": "Dairy",
+      "aliases": ["SALTED BUTTER 1LB", "BUTTER 16OZ", "SLTD BUTTER 16OZ", "BUTTER QUARTERS"],
+      "typical_price": 4.99
+    },
+    {
+      "sku": "DAIRY-004",
+      "name": "Greek Yogurt Plain 32oz",
+      "category": "Dairy",
+      "aliases": ["GREEK YOGURT PLAIN", "GRK YOGURT 32OZ", "PLAIN GREEK YOGURT", "YOGURT GREEK PL"],
+      "typical_price": 5.49
+    },
+    {
+      "sku": "DAIRY-005",
+      "name": "Cheddar Cheese Block 8oz",
+      "category": "Dairy",
+      "aliases": ["CHEDDAR CHEESE 8OZ", "SHARP CHEDDAR 8OZ", "CHEDDAR BLK 8OZ", "CHEESE CHEDDAR"],
+      "typical_price": 3.99
+    },
+    {
+      "sku": "BAKERY-001",
+      "name": "Sourdough Bread Loaf",
+      "category": "Bakery",
+      "aliases": ["SOURDOUGH BREAD", "SRDGH BRD 24OZ", "SOUR DOUGH LOAF", "ARTISAN SOURDOUGH"],
+      "typical_price": 4.49
+    },
+    {
+      "sku": "BAKERY-002",
+      "name": "Whole Wheat Bread 20oz",
+      "category": "Bakery",
+      "aliases": ["100% WHOLE WHEAT", "WHL WHEAT BREAD", "WHOLE WHEAT 20OZ", "WHEAT BRD LOAF"],
+      "typical_price": 3.29
+    },
+    {
+      "sku": "BAKERY-003",
+      "name": "Plain Bagels 6-Pack",
+      "category": "Bakery",
+      "aliases": ["PLAIN BAGELS 6PK", "BAGELS PLAIN 6CT", "BAGEL 6PK", "PLN BAGELS 6PK"],
+      "typical_price": 3.79
+    },
+    {
+      "sku": "PRODUCE-001",
+      "name": "Organic Bananas",
+      "category": "Produce",
+      "aliases": ["ORG BANANAS", "BANANAS ORGANIC", "ORGANIC BANANA", "BANANA YELLOW"],
+      "typical_price": 1.99
+    },
+    {
+      "sku": "PRODUCE-002",
+      "name": "Honeycrisp Apples 3lb Bag",
+      "category": "Produce",
+      "aliases": ["HONEYCRISP APPLES", "HNYCRISP APL 3LB", "APPLES HONEYCRISP 3LB", "HONEYCRISP 3LB"],
+      "typical_price": 5.99
+    },
+    {
+      "sku": "PRODUCE-003",
+      "name": "Organic Hass Avocado",
+      "category": "Produce",
+      "aliases": ["HASS AVOCADO", "ORG AVOCADO EA", "AVOCADO HASS", "AVOCADOS"],
+      "typical_price": 1.50
+    },
+    {
+      "sku": "PRODUCE-004",
+      "name": "Baby Spinach 16oz Tub",
+      "category": "Produce",
+      "aliases": ["ORG BABY SPINACH", "BABY SPINACH 16OZ", "SPINACH CLAMSHELL", "ORGANIC SPINACH 16OZ"],
+      "typical_price": 4.99
+    },
+    {
+      "sku": "PRODUCE-005",
+      "name": "Roma Tomatoes 1lb",
+      "category": "Produce",
+      "aliases": ["ROMA TOMATOES", "TOMATOES ROMA 1LB", "ROMA TOMATO", "TOMATO ROMA"],
+      "typical_price": 1.79
+    },
+    {
+      "sku": "BEV-001",
+      "name": "Pure Orange Juice No Pulp 52oz",
+      "category": "Beverages",
+      "aliases": ["ORANGE JUICE 52OZ", "100% OJ NO PULP", "PURE ORANGE JUICE", "0RANG3 JU1C3", "OJ NO PULP 52OZ"],
+      "typical_price": 4.19
+    },
+    {
+      "sku": "BEV-002",
+      "name": "Sparkling Water Lemon 12pk",
+      "category": "Beverages",
+      "aliases": ["SPARKLING WATER 12PK", "SPARKLING WATER LEMON", "SPARK WATER LMN 12PK", "LEMON SELTZER 12PK"],
+      "typical_price": 5.99
+    },
+    {
+      "sku": "BEV-003",
+      "name": "Dark Roast Ground Coffee 12oz",
+      "category": "Beverages",
+      "aliases": ["DARK ROAST COFFEE 12OZ", "GROUND COFFEE DARK", "COFFEE DK ROAST 12OZ", "DK ROAST GRND 12OZ"],
+      "typical_price": 8.99
+    },
+    {
+      "sku": "PANTRY-001",
+      "name": "Extra Virgin Olive Oil 500ml",
+      "category": "Pantry",
+      "aliases": ["EVOO 500ML", "EXTRA VIRGIN OLIVE OIL", "OLIVE OIL EV 500ML", "EV OLIVE OIL 16.9OZ"],
+      "typical_price": 9.49
+    },
+    {
+      "sku": "PANTRY-002",
+      "name": "Organic Jasmine Rice 5lb",
+      "category": "Pantry",
+      "aliases": ["JASMINE RICE 5LB", "ORG JASMINE RICE", "JASMINE RICE 5#", "WHITE JASMINE RICE 5LB"],
+      "typical_price": 7.99
+    },
+    {
+      "sku": "PANTRY-003",
+      "name": "Organic Black Beans 15oz",
+      "category": "Pantry",
+      "aliases": ["BLACK BEANS 15OZ", "ORG BLACK BEANS 15OZ", "CAN BLACK BEANS 15OZ", "BLK BEANS CAN"],
+      "typical_price": 1.39
+    },
+    {
+      "sku": "PANTRY-004",
+      "name": "Marinara Pasta Sauce 24oz",
+      "category": "Pantry",
+      "aliases": ["MARINARA SAUCE 24OZ", "PASTA SAUCE MARINARA", "MARINARA PASTA SC 24OZ", "TRADITIONAL MARINARA"],
+      "typical_price": 3.89
+    },
+    {
+      "sku": "PANTRY-005",
+      "name": "Spaghetti Pasta 16oz",
+      "category": "Pantry",
+      "aliases": ["SPAGHETTI 16OZ", "SPAGHETTI NOODLES 1LB", "PASTA SPAGHETTI 16OZ", "SEMOLINA SPAGHETTI"],
+      "typical_price": 1.69
+    },
+    {
+      "sku": "MEAT-001",
+      "name": "Boneless Skinless Chicken Breast 2lb",
+      "category": "Meat & Poultry",
+      "aliases": ["BNLS SKNLS CHICKEN BRST", "CHICKEN BREAST 2LB", "BS CHICKEN BREAST", "CHICKEN BRST BNLS"],
+      "typical_price": 8.99
+    },
+    {
+      "sku": "MEAT-002",
+      "name": "Ground Beef 85/15 1lb",
+      "category": "Meat & Poultry",
+      "aliases": ["GROUND BEEF 85/15", "GRND BEEF 85/15 1LB", "LEAN GROUND BEEF 1#", "GROUND BEEF 1LB"],
+      "typical_price": 6.49
+    },
+    {
+      "sku": "SNACK-001",
+      "name": "Sea Salt Potato Chips 8oz",
+      "category": "Snacks",
+      "aliases": ["SEA SALT CHIPS 8OZ", "POTATO CHIPS SEA SALT", "KETTLE COOKED CHIPS", "CHIPS SEA SALT 8OZ"],
+      "typical_price": 3.99
+    },
+    {
+      "sku": "SNACK-002",
+      "name": "Dark Chocolate Sea Salt Bar 3oz",
+      "category": "Snacks",
+      "aliases": ["DARK CHOCOLATE BAR 3OZ", "DK CHOCOLATE SEA SALT", "CHOC BAR SEA SALT 3OZ"],
+      "typical_price": 2.99
+    },
+    {
+      "sku": "HOUSE-001",
+      "name": "Paper Towels 2-Ply 6 Double Rolls",
+      "category": "Household",
+      "aliases": ["PAPER TOWELS 6DBL", "PPR TOWEL 6PK", "2-PLY PAPER TOWELS 6CT", "PAPER TOWEL 6 ROLLS"],
+      "typical_price": 10.99
+    },
+    {
+      "sku": "HOUSE-002",
+      "name": "Liquid Dish Soap Citrus 16oz",
+      "category": "Household",
+      "aliases": ["DISH SOAP CITRUS 16OZ", "LIQ DISH SOAP 16OZ", "DISH DETERGENT CITRUS", "CITRUS DISH SOAP 16OZ"],
+      "typical_price": 3.29
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "receipt_id": 1,
+  "merchant_name": "METRO FRESH MARKET",
+  "date": "10/11/2026",
+  "time": "12:35 PM",
+  "full_text": "METRO FRESH MARKET\n1042 MARKET ST, SAN FRANCISCO, CA\n(415) 555-0199\nDATE: 10/11/2026   TIME: 12:35 PM\n----------------------------------------\nSEA SALT POTATO CHIPS 8OZ    $  3.99\nGRADE A LARGE EGGS 12CT      $  3.49\nWHOLE MILK 1GAL              $  4.29\nORGANIC BANANAS              $  1.99\nSOURDOUGH BREAD LOAF         $  4.49\n----------------------------------------\nSUBTOTAL                     $ 18.25\nTAX (8.25%)                  $  1.51\nTOTAL                        $ 19.76\n----------------------------------------\nPAYMENT METHOD: VISA **** 4812\nTHANK YOU FOR SHOPPING WITH US!",
+  "line_items": [
+    {
+      "description": "SEA SALT POTATO CHIPS 8OZ",
+      "quantity": 1.0,
+      "unit_price": 3.99,
+      "total_price": 3.99,
+      "sku": "SNACK-001"
+    },
+    {
+      "description": "GRADE A LARGE EGGS 12CT",
+      "quantity": 1.0,
+      "unit_price": 3.49,
+      "total_price": 3.49,
+      "sku": "DAIRY-002"
+    },
+    {
+      "description": "WHOLE MILK 1GAL",
+      "quantity": 1.0,
+      "unit_price": 4.29,
+      "total_price": 4.29,
+      "sku": "DAIRY-001"
+    },
+    {
+      "description": "ORGANIC BANANAS",
+      "quantity": 1.0,
+      "unit_price": 1.99,
+      "total_price": 1.99,
+      "sku": "PRODUCE-001"
+    },
+    {
+      "description": "SOURDOUGH BREAD LOAF",
+      "quantity": 1.0,
+      "unit_price": 4.49,
+      "total_price": 4.49,
+      "sku": "BAKERY-001"
+    }
+  ],
+  "financial_summary": {
+    "subtotal": 18.25,
+    "tax": 1.51,
+    "total": 19.76
+  }
+}

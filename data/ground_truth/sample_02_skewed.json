@@ -1,0 +1,49 @@
+{
+  "receipt_id": 2,
+  "merchant_name": "VALLEY ORGANIC GROCERY",
+  "date": "10/12/2026",
+  "time": "13:35 PM",
+  "full_text": "VALLEY ORGANIC GROCERY\n782 HIGHWAY 101, REDWOOD CITY, CA\n(650) 555-0144\nDATE: 10/12/2026   TIME: 13:35 PM\n----------------------------------------\nPAPER TOWELS 6DBL            $ 10.99\nORGANIC BANANAS              $  1.99\nWHOLE MILK 1GAL              $  4.29\nGROUND COFFEE DARK 12OZ      $  8.99\nCHICKEN BREAST 2LB           $  8.99\n----------------------------------------\nSUBTOTAL                     $ 35.25\nTAX (8.25%)                  $  2.91\nTOTAL                        $ 38.16\n----------------------------------------\nPAYMENT METHOD: VISA **** 4812\nTHANK YOU FOR SHOPPING WITH US!",
+  "line_items": [
+    {
+      "description": "PAPER TOWELS 6DBL",
+      "quantity": 1.0,
+      "unit_price": 10.99,
+      "total_price": 10.99,
+      "sku": "HOUSE-001"
+    },
+    {
+      "description": "ORGANIC BANANAS",
+      "quantity": 1.0,
+      "unit_price": 1.99,
+      "total_price": 1.99,
+      "sku": "PRODUCE-001"
+    },
+    {
+      "description": "WHOLE MILK 1GAL",
+      "quantity": 1.0,
+      "unit_price": 4.29,
+      "total_price": 4.29,
+      "sku": "DAIRY-001"
+    },
+    {
+      "description": "GROUND COFFEE DARK 12OZ",
+      "quantity": 1.0,
+      "unit_price": 8.99,
+      "total_price": 8.99,
+      "sku": "BEV-003"
+    },
+    {
+      "description": "CHICKEN BREAST 2LB",
+      "quantity": 1.0,
+      "unit_price": 8.99,
+      "total_price": 8.99,
+      "sku": "MEAT-001"
+    }
+  ],
+  "financial_summary": {
+    "subtotal": 35.25,
+    "tax": 2.91,
+    "total": 38.16
+  }
+}

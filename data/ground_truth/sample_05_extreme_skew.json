@@ -1,0 +1,49 @@
+{
+  "receipt_id": 5,
+  "merchant_name": "VALLEY ORGANIC GROCERY",
+  "date": "10/15/2026",
+  "time": "16:35 PM",
+  "full_text": "VALLEY ORGANIC GROCERY\n782 HIGHWAY 101, REDWOOD CITY, CA\n(650) 555-0144\nDATE: 10/15/2026   TIME: 16:35 PM\n----------------------------------------\nPURE ORANGE JUICE 52OZ       $  4.19\nWHOLE MILK 1GAL              $  4.29\nPAPER TOWELS 6DBL            $ 10.99\nSALTED BUTTER 16OZ           $  4.99\nSEA SALT POTATO CHIPS 8OZ    $  3.99\n----------------------------------------\nSUBTOTAL                     $ 28.45\nTAX (8.25%)                  $  2.35\nTOTAL                        $ 30.80\n----------------------------------------\nPAYMENT METHOD: VISA **** 4812\nTHANK YOU FOR SHOPPING WITH US!",
+  "line_items": [
+    {
+      "description": "PURE ORANGE JUICE 52OZ",
+      "quantity": 1.0,
+      "unit_price": 4.19,
+      "total_price": 4.19,
+      "sku": "BEV-001"
+    },
+    {
+      "description": "WHOLE MILK 1GAL",
+      "quantity": 1.0,
+      "unit_price": 4.29,
+      "total_price": 4.29,
+      "sku": "DAIRY-001"
+    },
+    {
+      "description": "PAPER TOWELS 6DBL",
+      "quantity": 1.0,
+      "unit_price": 10.99,
+      "total_price": 10.99,
+      "sku": "HOUSE-001"
+    },
+    {
+      "description": "SALTED BUTTER 16OZ",
+      "quantity": 1.0,
+      "unit_price": 4.99,
+      "total_price": 4.99,
+      "sku": "DAIRY-003"
+    },
+    {
+      "description": "SEA SALT POTATO CHIPS 8OZ",
+      "quantity": 1.0,
+      "unit_price": 3.99,
+      "total_price": 3.99,
+      "sku": "SNACK-001"
+    }
+  ],
+  "financial_summary": {
+    "subtotal": 28.45,
+    "tax": 2.35,
+    "total": 30.8
+  }
+}

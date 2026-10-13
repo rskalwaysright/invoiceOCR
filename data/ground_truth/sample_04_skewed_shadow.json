@@ -1,0 +1,49 @@
+{
+  "receipt_id": 4,
+  "merchant_name": "METRO FRESH MARKET",
+  "date": "10/14/2026",
+  "time": "15:35 PM",
+  "full_text": "METRO FRESH MARKET\n1042 MARKET ST, SAN FRANCISCO, CA\n(415) 555-0199\nDATE: 10/14/2026   TIME: 15:35 PM\n----------------------------------------\nPAPER TOWELS 6DBL            $ 10.99\nGRADE A LARGE EGGS 12CT      $  3.49\nJASMINE RICE 5LB             $  7.99\n2 @ 1.50\nHASS AVOCADO                 $  3.00\nPURE ORANGE JUICE 52OZ       $  4.19\n----------------------------------------\nSUBTOTAL                     $ 29.66\nTAX (8.25%)                  $  2.45\nTOTAL                        $ 32.11\n----------------------------------------\nPAYMENT METHOD: VISA **** 4812\nTHANK YOU FOR SHOPPING WITH US!",
+  "line_items": [
+    {
+      "description": "PAPER TOWELS 6DBL",
+      "quantity": 1.0,
+      "unit_price": 10.99,
+      "total_price": 10.99,
+      "sku": "HOUSE-001"
+    },
+    {
+      "description": "GRADE A LARGE EGGS 12CT",
+      "quantity": 1.0,
+      "unit_price": 3.49,
+      "total_price": 3.49,
+      "sku": "DAIRY-002"
+    },
+    {
+      "description": "JASMINE RICE 5LB",
+      "quantity": 1.0,
+      "unit_price": 7.99,
+      "total_price": 7.99,
+      "sku": "PANTRY-002"
+    },
+    {
+      "description": "HASS AVOCADO",
+      "quantity": 2.0,
+      "unit_price": 1.5,
+      "total_price": 3.0,
+      "sku": "PRODUCE-003"
+    },
+    {
+      "description": "PURE ORANGE JUICE 52OZ",
+      "quantity": 1.0,
+      "unit_price": 4.19,
+      "total_price": 4.19,
+      "sku": "BEV-001"
+    }
+  ],
+  "financial_summary": {
+    "subtotal": 29.66,
+    "tax": 2.45,
+    "total": 32.11
+  }
+}

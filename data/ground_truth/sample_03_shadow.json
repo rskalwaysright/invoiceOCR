@@ -1,0 +1,49 @@
+{
+  "receipt_id": 3,
+  "merchant_name": "CORNERSTONE SUPERMARKET",
+  "date": "10/13/2026",
+  "time": "14:35 PM",
+  "full_text": "CORNERSTONE SUPERMARKET\n320 BROADWAY, NEW YORK, NY\n(212) 555-0182\nDATE: 10/13/2026   TIME: 14:35 PM\n----------------------------------------\nCHICKEN BREAST 2LB           $  8.99\nWHOLE MILK 1GAL              $  4.29\nPAPER TOWELS 6DBL            $ 10.99\nGROUND COFFEE DARK 12OZ      $  8.99\nSOURDOUGH BREAD LOAF         $  4.49\n----------------------------------------\nSUBTOTAL                     $ 37.75\nTAX (8.25%)                  $  3.11\nTOTAL                        $ 40.86\n----------------------------------------\nPAYMENT METHOD: VISA **** 4812\nTHANK YOU FOR SHOPPING WITH US!",
+  "line_items": [
+    {
+      "description": "CHICKEN BREAST 2LB",
+      "quantity": 1.0,
+      "unit_price": 8.99,
+      "total_price": 8.99,
+      "sku": "MEAT-001"
+    },
+    {
+      "description": "WHOLE MILK 1GAL",
+      "quantity": 1.0,
+      "unit_price": 4.29,
+      "total_price": 4.29,
+      "sku": "DAIRY-001"
+    },
+    {
+      "description": "PAPER TOWELS 6DBL",
+      "quantity": 1.0,
+      "unit_price": 10.99,
+      "total_price": 10.99,
+      "sku": "HOUSE-001"
+    },
+    {
+      "description": "GROUND COFFEE DARK 12OZ",
+      "quantity": 1.0,
+      "unit_price": 8.99,
+      "total_price": 8.99,
+      "sku": "BEV-003"
+    },
+    {
+      "description": "SOURDOUGH BREAD LOAF",
+      "quantity": 1.0,
+      "unit_price": 4.49,
+      "total_price": 4.49,
+      "sku": "BAKERY-001"
+    }
+  ],
+  "financial_summary": {
+    "subtotal": 37.75,
+    "tax": 3.11,
+    "total": 40.86
+  }
+}
